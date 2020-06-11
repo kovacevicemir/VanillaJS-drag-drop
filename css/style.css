@@ -22,11 +22,11 @@ body {
 }
 
 .hold{
-    border: solid black 4px;
+    border: solid goldenrod 4px;
 }
 
 .hovered {
-    background: #f4f4f4;
+    background: gray;
     border-style: dashed;
 }
 
